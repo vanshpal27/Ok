@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f17ce295-ab2e-4954-98b5-f8d2423b3c5b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="32xUrtIHTWL4Sux2alsVteUnPa4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.MainApplication.executor": "Run",
+    "Application.SpingTestingApplication.executor": "Run",
+    "JUnit.EmployeRepoTest.executor": "Run",
+    "JUnit.EmployeRepoTest.testFindByEmail_WhenEmailIsNotPresent_ThanReturnListOfEmploy.executor": "Run",
+    "JUnit.EmployeRepoTest.testFindByEmail_WhenEmailIsNotPresent_ThenThrowException.executor": "Run",
+    "JUnit.EmployeRepoTest.testFindByEmail_WhenEmailIsPresent_ThanReturnListOfEmploy.executor": "Run",
+    "JUnit.EmployeServiceTest.executor": "Run",
+    "JUnit.EmployeServiceTest.testFindByEmail.executor": "Run",
+    "JUnit.EmployeServiceTest.testFindByEmail_ThanReturnException.executor": "Run",
+    "JUnit.EmployeServiceTest.testGetById_WhenEmployeIsNotPresent_ThenReturnRuntime.executor": "Run",
+    "JUnit.EmployeServiceTest.testGetById_WhenEmployeIsPresent_ThenEmployeDto.executor": "Run",
+    "JUnit.EmployeServiceTest.testSave_ThenReturnEmployeDto.executor": "Run",
+    "JUnit.EmployeServiceTest.testUpdate.executor": "Run",
+    "JUnit.EmployerControllerTest.executor": "Run",
+    "JUnit.EmployerControllerTest.testCreate.executor": "Run",
+    "JUnit.EmployerControllerTest.testGet.executor": "Run",
+    "JUnit.EmployerControllerTest.testGet_ThanThrowException.executor": "Run",
+    "JUnit.EmployerControllerTest.update.executor": "Run",
+    "JUnit.SpingTesting in SpingTesting.executor": "Coverage",
+    "JUnit.SpingTestingApplicationTests.executor": "Run",
+    "JUnit.com.example.Tutitorial.SpingTesting in SpingTesting.executor": "Coverage",
+    "Maven.SpingTesting [clean].executor": "Run",
+    "Maven.SpingTesting [compile].executor": "Run",
+    "Maven.SpingTesting [package].executor": "Run",
+    "Maven.SpingTesting [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/spring/SpingTesting",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "com.intellij.jpb.viewMode"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "SQL"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/ms-21.0.8" />
+      <envs>
+        <env name="DB_NAME" value="ok" />
+        <env name="DB_USERNAME" value="root" />
+        <env name="DB_PASSWORD" value="PLMoknijb" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="com.example.Tutitorial.SpingTesting.SpingTestingApplication" />
+      <module name="SpingTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpingTesting [package]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MainApplication" />
+      <item itemvalue="Maven.SpingTesting [package]" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f17ce295-ab2e-4954-98b5-f8d2423b3c5b" name="Changes" comment="" />
+      <created>1758361918858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758361918858</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/Tutitorial/SpingTesting/EmployeRepoTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/Tutitorial/SpingTesting/EmployerControllerTest.java</url>
+          <line>79</line>
+          <properties class="com.example.Tutitorial.SpingTesting.EmployerControllerTest" method="update">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SpingTesting$com_example_Tutitorial_SpingTesting_in_SpingTesting.ic" NAME="com.example.Tutitorial.SpingTesting in SpingTesting Coverage Results" MODIFIED="1758568279044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.Tutitorial.SpingTesting.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SpingTesting$SpingTesting_in_SpingTesting.ic" NAME="SpingTesting in SpingTesting Coverage Results" MODIFIED="1758568449680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/SpingTesting$EmployeServiceTest.ic" NAME="EmployeServiceTest Coverage Results" MODIFIED="1758542302488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.example.Tutitorial.SpingTesting.*</FILTER>
+    </SUITE>
+  </component>
+</project>
